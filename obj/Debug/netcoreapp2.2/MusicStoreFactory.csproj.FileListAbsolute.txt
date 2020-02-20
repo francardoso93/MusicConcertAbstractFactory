@@ -1,0 +1,11 @@
+/home/francisco/projects/MusicConcertFactory/bin/Debug/netcoreapp2.2/MusicConcertFactory.deps.json
+/home/francisco/projects/MusicConcertFactory/bin/Debug/netcoreapp2.2/MusicConcertFactory.runtimeconfig.json
+/home/francisco/projects/MusicConcertFactory/bin/Debug/netcoreapp2.2/MusicConcertFactory.runtimeconfig.dev.json
+/home/francisco/projects/MusicConcertFactory/bin/Debug/netcoreapp2.2/MusicConcertFactory.dll
+/home/francisco/projects/MusicConcertFactory/bin/Debug/netcoreapp2.2/MusicConcertFactory.pdb
+/home/francisco/projects/MusicConcertFactory/obj/Debug/netcoreapp2.2/MusicConcertFactory.csprojAssemblyReference.cache
+/home/francisco/projects/MusicConcertFactory/obj/Debug/netcoreapp2.2/MusicConcertFactory.csproj.CoreCompileInputs.cache
+/home/francisco/projects/MusicConcertFactory/obj/Debug/netcoreapp2.2/MusicConcertFactory.AssemblyInfoInputs.cache
+/home/francisco/projects/MusicConcertFactory/obj/Debug/netcoreapp2.2/MusicConcertFactory.AssemblyInfo.cs
+/home/francisco/projects/MusicConcertFactory/obj/Debug/netcoreapp2.2/MusicConcertFactory.dll
+/home/francisco/projects/MusicConcertFactory/obj/Debug/netcoreapp2.2/MusicConcertFactory.pdb
